@@ -1,4 +1,4 @@
-# doom game using pygame module
+# doom game style using pygame module
 
 <p align="center"><img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c34d.png" alt="doom" width="25%" border="0"><br /></p>
 
