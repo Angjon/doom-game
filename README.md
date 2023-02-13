@@ -6,7 +6,7 @@
 <h1 align="center"> 🎮 Doom game | Raycaster engine </h1>
 
 ## Project Status
-<p>:heavy_check_mark: Under development<p>
+<p>:heavy_check_mark: Complete<p>
 
 ## Table of Contents 
 - [Objective](#objective)
